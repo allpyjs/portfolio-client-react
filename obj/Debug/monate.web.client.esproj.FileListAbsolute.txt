@@ -1,0 +1,1 @@
+E:\Practice\portfolio_work\Monate\Portfolio-dotnet-react\monate.web.client\obj\Debug\monate.web.client.esproj.CoreCompileInputs.cache
